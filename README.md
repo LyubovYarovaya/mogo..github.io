@@ -1,1 +1,1 @@
-# mogo..github.io
+# mogo.github.io
